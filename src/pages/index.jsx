@@ -27,13 +27,13 @@ class Index extends React.Component {
           <BodyContainer>
             <h2>Quick Javascript and Reactjs introduction in 2018</h2>
             <p>If you're a JAVA, C++, Python, Ruby programmer. Here's a quick walk through into js before you learn reactjs</p>
-            <CtaButton to={'/lesson-one'}>See more</CtaButton>
+            <CtaButton to={'/5-features-of-any-programming-language'}>See more</CtaButton>
           </BodyContainer>
-          <BodyContainer>
+          {/* <BodyContainer>
             <h2>Different features using Reactjs</h2>
             <p>Here is a list of common client side features and its implementation with updated code</p>
             <CtaButton to={'/lesson-two'}>Yuppie</CtaButton>
-          </BodyContainer>
+          </BodyContainer> */}
         </main>
       </div>
     );

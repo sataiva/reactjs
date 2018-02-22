@@ -50,7 +50,6 @@ class TableOfContents extends React.Component {
             <Link to={node.path} activeClassName="activeLink">
               <li>
                 <span>
-                  <p>{node.chapter}.{node.lessonNumber} &nbsp;</p>
                   <h6>{node.title}</h6>
                 </span>
               </li>
@@ -105,8 +104,7 @@ const TableOfContentsContainer = styled.div`
   }
 
   .activeLink h6 {
-    color: #41B883;
-    font-weight: bold;
+    font-weight: strong;
   }
 `
 
