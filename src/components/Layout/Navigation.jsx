@@ -40,7 +40,7 @@ class Navigation extends React.Component {
         <section>
           <Link className='nav-link' to='/' > HOME </Link>
           <Link className='nav-link' to='/lesson-one' > DOCS </Link>
-          <Link className='nav-link' to='/about' > ABOUT </Link>
+          <a className='nav-link' href='https://sataiva.com' target="_blank"> Sataiva Page</a>
         </section>
         <span><UserLinks /></span>
       </NavContainer>

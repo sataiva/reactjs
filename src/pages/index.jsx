@@ -25,7 +25,7 @@ class Index extends React.Component {
             </Hero>
           </IndexHeadContainer>
           <BodyContainer>
-            <h2>Quick Javascript introduction in 2018</h2>
+            <h2>Quick Javascript and Reactjs introduction in 2018</h2>
             <p>If you're a JAVA, C++, Python, Ruby programmer. Here's a quick walk through into js before you learn reactjs</p>
             <CtaButton to={'/lesson-one'}>See more</CtaButton>
           </BodyContainer>

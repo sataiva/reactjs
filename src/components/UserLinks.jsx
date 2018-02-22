@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import {FaGithubAlt, FaTwitter} from 'react-icons/lib/fa'
+import {FaGithubAlt, FaFacebook, FaYoutube} from 'react-icons/lib/fa'
 import {MdMessage, MdEmail} from 'react-icons/lib/md'
 import styled from 'styled-components'
 
@@ -9,7 +9,7 @@ const Container = styled.div`
     justify-content: center;
     align-items: center;
     max-width: 100%;
-    
+
 `
 
 const UserIcon = styled.a`
@@ -19,11 +19,12 @@ const UserIcon = styled.a`
     color: rgba(0, 0, 0, .2);
     border-bottom: none;
   }
-  
-  
+
+
 `
 
 const iconStyle = {
+  color: "#35495E",
   width: '20px',
   height: '20px',
 }
@@ -32,17 +33,14 @@ class UserLinks extends Component {
   render() {
     return (
       <Container className="user-links">
-        <UserIcon href='https://github.com/ericwindmill'>
+        <UserIcon href='https://github.com/sataiva'>
           <FaGithubAlt style={iconStyle} />
         </UserIcon>
-        <UserIcon href='https://twitter.com/ericwindmill?lang=en'>
-          <FaTwitter style={iconStyle} />
+        <UserIcon href='https://fb.com/sataiva'>
+          <FaFacebook style={iconStyle} />
         </UserIcon>
-        <UserIcon href="https://www.messenger.com/t/eric.windmill">
-          <MdMessage style={iconStyle} />
-        </UserIcon>
-        <UserIcon href="mailto:eric@ericwindmill.com">
-          <MdEmail style={iconStyle} />
+        <UserIcon href='https://www.youtube.com/channel/UC1F-wHR6SqoSjM7Nyxtkl7g'>
+          <FaYoutube style={iconStyle} />
         </UserIcon>
       </Container>
     )

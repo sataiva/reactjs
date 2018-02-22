@@ -9,7 +9,7 @@ module.exports = {
   siteDescription: "We will share our learnings about reactjs in metaphorical way here", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "1825356251115265", // FB Application ID for using app insights
-  googleAnalyticsID: "UA-82450300-1 ", // GA tracking ID.
+  googleAnalyticsID: "UA-113976821-1", // GA tracking ID.
   disqusShortname: "https-ericwindmill-github-io-gatsby-advanced-starter", // Disqus shortname.
   postDefaultCategoryID: "Tech", // Default category for posts.
   userName: "User", // Username to display in the author segment.
@@ -21,17 +21,17 @@ module.exports = {
   userLinks: [
     {
       label: "GitHub",
-      url: "https://github.com/ericwindmill",
+      url: "https://github.com/sataiva",
       iconClassName: "fa fa-github"
     },
     {
       label: "Twitter",
-      url: "https://twitter.com/ericwindmill",
+      url: "https://twitter.com/vysakh0",
       iconClassName: "fa fa-twitter"
     },
     {
       label: "Messenger",
-      url: "https://www.messenger.com/t/eric.windmill",
+      url: "https://www.messenger.com/t/vysakh0",
       iconClassName: "fa fa-message"
     },
     {
@@ -41,7 +41,7 @@ module.exports = {
     },
     {
       label: "Instagram",
-      url: "https://instagram.com/ericwindmill",
+      url: "https://instagram.com/vysakh0",
       iconClassName: "fa fa-envelope"
     }
   ],

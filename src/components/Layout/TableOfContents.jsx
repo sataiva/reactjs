@@ -47,7 +47,7 @@ class TableOfContents extends React.Component {
       chapter.forEach(node => {
         chapterLessons.push(
           <LessonContainer>
-            <Link to={node.path}>
+            <Link to={node.path} activeClassName="activeLink">
               <li>
                 <span>
                   <p>{node.chapter}.{node.lessonNumber} &nbsp;</p>
@@ -91,17 +91,22 @@ const TableOfContentsContainer = styled.div`
     padding: 0;
     margin: 0;
   }
-  
+
   p, h6 {
     display: inline-block;
     font-weight: 200;
     margin: 0;
   }
-  
+
   .tocHeading {
      font-weight: 200;
      color: ${props => props.theme.brand};
      margin-bottom: 10px;
+  }
+
+  .activeLink h6 {
+    color: #41B883;
+    font-weight: bold;
   }
 `
 
