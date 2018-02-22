@@ -1,8 +1,7 @@
 {
-  "name": "gatsby-docs-starter",
-  "description": "GatsbyJS starter designed with documentation and tutorial websites in mind.",
+  "name": "reactjs-docs",
+  "description": "A reactjs tips and docs",
   "version": "1.0.1",
-  "author": "Eric Windmill <eric@ericwindmill.com>",
   "dependencies": {
     "babel-plugin-lodash": "^3.2.11",
     "gatsby": "^1.8.11",
@@ -45,7 +44,7 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^5.1.1",
     "eslint-plugin-react": "^7.1.0",
-    "gh-pages": "^1.0.0",
+    "gh-pages": "^1.1.0",
     "prettier": "^1.5.3",
     "remark-cli": "^4.0.0",
     "remark-preset-lint-recommended": "^3.0.1",

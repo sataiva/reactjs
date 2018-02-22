@@ -7,28 +7,28 @@ const NavContainer = styled.div`
   display: flex;
   justify-content: space-between;
   width: 100%;
-  background: ${props => props.theme.brand};
-  
+  background: ${props => props.theme.block};
+
   .nav-link {
     font-size: 1.6rem;
     margin-right: 10px;
     font-weight: 200;
     color: black;
   }
-  
+
   @media screen and (max-width: 600px) {
     display: flex;
     flex-direction: column;
     align-items: center;
-    
+
     section {
       margin-bottom: 20px;
     }
-    
+
     span {
       display: none;
     }
-    
+
   }
 `
 

@@ -1,12 +1,12 @@
 module.exports = {
   blogPostDir: "posts", // The name of directory that contains your posts.
   lessonsDir: "lessons", // The name of the directory that contains lessons or docs.
-  siteTitle: "Gatsby Docs Starter", // Site title.
-  siteTitleAlt: "Gatsby Starter Template for Creating Docs", // Alternative site title for SEO.
-  siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
-  siteUrl: "https://ericwindmill.com", // Domain of your website without pathPrefix.
+  siteTitle: "Reactjs tutorial, tips, learnings", // Site title.
+  siteTitleAlt: "Introduction, Intermediate Reactjs with tutorial and docs", // Alternative site title for SEO.
+  siteLogo: "/logos/react-sataiva.png", // Logo used for SEO and manifest.
+  siteUrl: "http://react.sataiva.com", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
-  siteDescription: "A GatsbyJS stater for creating Documentation or Tutorials.", // Website description used for RSS feeds/meta description tag.
+  siteDescription: "We will share our learnings about reactjs in metaphorical way here", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "1825356251115265", // FB Application ID for using app insights
   googleAnalyticsID: "UA-82450300-1 ", // GA tracking ID.
@@ -45,7 +45,7 @@ module.exports = {
       iconClassName: "fa fa-envelope"
     }
   ],
-  copyright: "Copyright © 2017. Advanced User", // Copyright string for the footer of the website and RSS feed.
+  copyright: "Copyright © 2018. Sataiva Technologies Pvt Ltd", // Copyright string for the footer of the website and RSS feed.
   themeColor: "#c62828", // Used for setting manifest and progress theme colors.
   backgroundColor: "#e0e0e0", // Used for setting manifest background color.
   // TODO: Move this literally anywhere better.

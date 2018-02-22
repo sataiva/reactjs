@@ -25,9 +25,14 @@ class Index extends React.Component {
             </Hero>
           </IndexHeadContainer>
           <BodyContainer>
-            <h2>A Gatsby Template for Content</h2>
-            <p>Made for modern documentation sites. Table of Contents automatically generated from markdown files. </p>
-            <CtaButton to={'/lesson-one'}>See Your First Post</CtaButton>
+            <h2>Quick Javascript introduction in 2018</h2>
+            <p>If you're a JAVA, C++, Python, Ruby programmer. Here's a quick walk through into js before you learn reactjs</p>
+            <CtaButton to={'/lesson-one'}>See more</CtaButton>
+          </BodyContainer>
+          <BodyContainer>
+            <h2>Different features using Reactjs</h2>
+            <p>Here is a list of common client side features and its implementation with updated code</p>
+            <CtaButton to={'/lesson-two'}>Yuppie</CtaButton>
           </BodyContainer>
         </main>
       </div>
@@ -38,7 +43,7 @@ class Index extends React.Component {
 export default Index;
 
 const IndexHeadContainer = styled.div`
-  background: ${props => props.theme.brand};
+  background: ${props => props.theme.block};
   padding: ${props => props.theme.sitePadding};
   text-align: center;
 `
@@ -64,7 +69,7 @@ export const pageQuery = graphql`
       limit: 2000
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
-      edges { 
+      edges {
         node {
           fields {
             slug
