@@ -1,64 +1,64 @@
 {
   "assetsByChunkName": {
     "path---tags-other": [
-      "path---tags-other-65fb6a881cc1b540af94.js",
-      "path---tags-other-65fb6a881cc1b540af94.js.map"
+      "path---tags-other-7c0762ac5cb1b49d02be.js",
+      "path---tags-other-7c0762ac5cb1b49d02be.js.map"
     ],
     "path---tags-programming": [
-      "path---tags-programming-2d64f880eac83c808d39.js",
-      "path---tags-programming-2d64f880eac83c808d39.js.map"
+      "path---tags-programming-eaa365a2766a7cae1c87.js",
+      "path---tags-programming-eaa365a2766a7cae1c87.js.map"
     ],
     "path---": [
       "path----6611940bd40871b680a6.js",
       "path----6611940bd40871b680a6.js.map"
-    ],
-    "path---lesson-one": [
-      "path---lesson-one-c6546e534094b2bd90a9.js",
-      "path---lesson-one-c6546e534094b2bd90a9.js.map"
     ],
     "component---src-layouts-index-jsx": [
       "component---src-layouts-index-jsx-e319650c2594cb6116b7.js",
       "component---src-layouts-index-jsx-e319650c2594cb6116b7.js.map"
     ],
     "path---categories-tech": [
-      "path---categories-tech-db8a4221fe985e7ae760.js",
-      "path---categories-tech-db8a4221fe985e7ae760.js.map"
+      "path---categories-tech-92b30177ecadb57ec9b0.js",
+      "path---categories-tech-92b30177ecadb57ec9b0.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
+    "path---5-features-of-any-programming-language": [
+      "path---5-features-of-any-programming-language-6a17965e236b6dfc0601.js",
+      "path---5-features-of-any-programming-language-6a17965e236b6dfc0601.js.map"
+    ],
     "component---src-templates-lesson-jsx": [
-      "component---src-templates-lesson-jsx-0eb26b7e48f2bb5b017c.js",
-      "component---src-templates-lesson-jsx-0eb26b7e48f2bb5b017c.js.map"
+      "component---src-templates-lesson-jsx-56977b3039144daa4ed6.js",
+      "component---src-templates-lesson-jsx-56977b3039144daa4ed6.js.map"
     ],
     "path---lesson-two": [
-      "path---lesson-two-c92a10892c355840d7a1.js",
-      "path---lesson-two-c92a10892c355840d7a1.js.map"
+      "path---lesson-two-e4c722c2db9663862579.js",
+      "path---lesson-two-e4c722c2db9663862579.js.map"
     ],
     "component---src-templates-category-jsx": [
       "component---src-templates-category-jsx-3a50fee79b9519c47f96.js",
       "component---src-templates-category-jsx-3a50fee79b9519c47f96.js.map"
     ],
     "path---index": [
-      "path---index-42bfab4007698e2a78a3.js",
-      "path---index-42bfab4007698e2a78a3.js.map"
+      "path---index-fc5e876dd4b380e23998.js",
+      "path---index-fc5e876dd4b380e23998.js.map"
     ],
     "component---src-pages-about-jsx": [
-      "component---src-pages-about-jsx-6d23785cbbc6a51420ba.js",
-      "component---src-pages-about-jsx-6d23785cbbc6a51420ba.js.map"
+      "component---src-pages-about-jsx-cd9b3c279727d8064f64.js",
+      "component---src-pages-about-jsx-cd9b3c279727d8064f64.js.map"
     ],
     "path---post-one": [
       "path---post-one-c5ce1d4b08a57ad8cf05.js",
       "path---post-one-c5ce1d4b08a57ad8cf05.js.map"
     ],
     "commons": [
-      "commons-b3c2c8df8e4d39535c79.js",
-      "commons-b3c2c8df8e4d39535c79.js.map"
+      "commons-3ea838f882ecb5b8c8ec.js",
+      "commons-3ea838f882ecb5b8c8ec.js.map"
     ],
     "path---lesson-three": [
-      "path---lesson-three-3b26921f0be87e19e76d.js",
-      "path---lesson-three-3b26921f0be87e19e76d.js.map"
+      "path---lesson-three-7e6a1fc4e53fae7f826c.js",
+      "path---lesson-three-7e6a1fc4e53fae7f826c.js.map"
     ],
     "component---src-templates-tag-jsx": [
       "component---src-templates-tag-jsx-6d724a4bbcff12c3ea7c.js",
@@ -73,16 +73,20 @@
       "component---src-templates-post-jsx-58355a77d7c54cb4bff1.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-0f324189b0df755fdc22.js",
-      "component---src-pages-index-jsx-0f324189b0df755fdc22.js.map"
+      "component---src-pages-index-jsx-e45e29cc7892246e2102.js",
+      "component---src-pages-index-jsx-e45e29cc7892246e2102.js.map"
     ],
     "app": [
-      "app-f3c63866be3cf277a931.js",
-      "app-f3c63866be3cf277a931.js.map"
+      "app-9fee030f0e5b25ba8c45.js",
+      "app-9fee030f0e5b25ba8c45.js.map"
     ],
     "path---tags-stuff": [
-      "path---tags-stuff-989ed38e30078865b9cf.js",
-      "path---tags-stuff-989ed38e30078865b9cf.js.map"
+      "path---tags-stuff-11986b49287cea8ae6e9.js",
+      "path---tags-stuff-11986b49287cea8ae6e9.js.map"
+    ],
+    "path---categories-vanillajs": [
+      "path---categories-vanillajs-bc663cea9d9a375adf2f.js",
+      "path---categories-vanillajs-bc663cea9d9a375adf2f.js.map"
     ],
     "path---about": [
       "path---about-586c7e095e534a3909ec.js",
