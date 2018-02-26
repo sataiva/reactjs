@@ -1,96 +1,84 @@
 {
   "assetsByChunkName": {
-    "path---tags-other": [
-      "path---tags-other-7c0762ac5cb1b49d02be.js",
-      "path---tags-other-7c0762ac5cb1b49d02be.js.map"
+    "path---react-intro-quiz-1": [
+      "path---react-intro-quiz-1-586c7e095e534a3909ec.js",
+      "path---react-intro-quiz-1-586c7e095e534a3909ec.js.map"
     ],
-    "path---tags-programming": [
-      "path---tags-programming-eaa365a2766a7cae1c87.js",
-      "path---tags-programming-eaa365a2766a7cae1c87.js.map"
+    "path---react-intro-js-1": [
+      "path---react-intro-js-1-586c7e095e534a3909ec.js",
+      "path---react-intro-js-1-586c7e095e534a3909ec.js.map"
+    ],
+    "component---src-pages-react-intro-quiz-1-jsx": [
+      "component---src-pages-react-intro-quiz-1-jsx-2243c721955a329f64db.js",
+      "component---src-pages-react-intro-quiz-1-jsx-2243c721955a329f64db.js.map"
+    ],
+    "component---src-pages-quick-intro-jsx": [
+      "component---src-pages-quick-intro-jsx-b07b826a3b9e88da4453.js",
+      "component---src-pages-quick-intro-jsx-b07b826a3b9e88da4453.js.map"
+    ],
+    "path---react-intro-javascript-essentials": [
+      "path---react-intro-javascript-essentials-586c7e095e534a3909ec.js",
+      "path---react-intro-javascript-essentials-586c7e095e534a3909ec.js.map"
+    ],
+    "component---src-pages-react-intro-js-1-jsx": [
+      "component---src-pages-react-intro-js-1-jsx-14e3d41ac3ecbaa877d5.js",
+      "component---src-pages-react-intro-js-1-jsx-14e3d41ac3ecbaa877d5.js.map"
     ],
     "path---": [
       "path----6611940bd40871b680a6.js",
       "path----6611940bd40871b680a6.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-e319650c2594cb6116b7.js",
-      "component---src-layouts-index-jsx-e319650c2594cb6116b7.js.map"
-    ],
-    "path---categories-tech": [
-      "path---categories-tech-92b30177ecadb57ec9b0.js",
-      "path---categories-tech-92b30177ecadb57ec9b0.js.map"
+      "component---src-layouts-index-jsx-a2f6624b4d5a8e2d6149.js",
+      "component---src-layouts-index-jsx-a2f6624b4d5a8e2d6149.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
-    "path---5-features-of-any-programming-language": [
-      "path---5-features-of-any-programming-language-6a17965e236b6dfc0601.js",
-      "path---5-features-of-any-programming-language-6a17965e236b6dfc0601.js.map"
-    ],
-    "component---src-templates-lesson-jsx": [
-      "component---src-templates-lesson-jsx-56977b3039144daa4ed6.js",
-      "component---src-templates-lesson-jsx-56977b3039144daa4ed6.js.map"
-    ],
-    "path---lesson-two": [
-      "path---lesson-two-e4c722c2db9663862579.js",
-      "path---lesson-two-e4c722c2db9663862579.js.map"
-    ],
-    "component---src-templates-category-jsx": [
-      "component---src-templates-category-jsx-3a50fee79b9519c47f96.js",
-      "component---src-templates-category-jsx-3a50fee79b9519c47f96.js.map"
-    ],
     "path---index": [
-      "path---index-fc5e876dd4b380e23998.js",
-      "path---index-fc5e876dd4b380e23998.js.map"
+      "path---index-586c7e095e534a3909ec.js",
+      "path---index-586c7e095e534a3909ec.js.map"
     ],
     "component---src-pages-about-jsx": [
-      "component---src-pages-about-jsx-cd9b3c279727d8064f64.js",
-      "component---src-pages-about-jsx-cd9b3c279727d8064f64.js.map"
+      "component---src-pages-about-jsx-88e439d210cb5a7231c7.js",
+      "component---src-pages-about-jsx-88e439d210cb5a7231c7.js.map"
     ],
-    "path---post-one": [
-      "path---post-one-c5ce1d4b08a57ad8cf05.js",
-      "path---post-one-c5ce1d4b08a57ad8cf05.js.map"
+    "component---src-pages-react-intro-javascript-crash-course-jsx": [
+      "component---src-pages-react-intro-javascript-crash-course-jsx-3ff020c0a38e1c4f24c2.js",
+      "component---src-pages-react-intro-javascript-crash-course-jsx-3ff020c0a38e1c4f24c2.js.map"
     ],
     "commons": [
-      "commons-3ea838f882ecb5b8c8ec.js",
-      "commons-3ea838f882ecb5b8c8ec.js.map"
-    ],
-    "path---lesson-three": [
-      "path---lesson-three-7e6a1fc4e53fae7f826c.js",
-      "path---lesson-three-7e6a1fc4e53fae7f826c.js.map"
-    ],
-    "component---src-templates-tag-jsx": [
-      "component---src-templates-tag-jsx-6d724a4bbcff12c3ea7c.js",
-      "component---src-templates-tag-jsx-6d724a4bbcff12c3ea7c.js.map"
+      "commons-5c756dbc00916845bb2e.js",
+      "commons-5c756dbc00916845bb2e.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-586c7e095e534a3909ec.js",
       "path---offline-plugin-app-shell-fallback-586c7e095e534a3909ec.js.map"
     ],
-    "component---src-templates-post-jsx": [
-      "component---src-templates-post-jsx-58355a77d7c54cb4bff1.js",
-      "component---src-templates-post-jsx-58355a77d7c54cb4bff1.js.map"
-    ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-e45e29cc7892246e2102.js",
-      "component---src-pages-index-jsx-e45e29cc7892246e2102.js.map"
+      "component---src-pages-index-jsx-6216cfc4b5aed4fea394.js",
+      "component---src-pages-index-jsx-6216cfc4b5aed4fea394.js.map"
     ],
     "app": [
-      "app-9fee030f0e5b25ba8c45.js",
-      "app-9fee030f0e5b25ba8c45.js.map"
+      "app-23e4af784d8f047f0764.js",
+      "app-23e4af784d8f047f0764.js.map"
     ],
-    "path---tags-stuff": [
-      "path---tags-stuff-11986b49287cea8ae6e9.js",
-      "path---tags-stuff-11986b49287cea8ae6e9.js.map"
+    "path---quick-intro": [
+      "path---quick-intro-586c7e095e534a3909ec.js",
+      "path---quick-intro-586c7e095e534a3909ec.js.map"
     ],
-    "path---categories-vanillajs": [
-      "path---categories-vanillajs-bc663cea9d9a375adf2f.js",
-      "path---categories-vanillajs-bc663cea9d9a375adf2f.js.map"
+    "component---src-pages-react-intro-javascript-essentials-jsx": [
+      "component---src-pages-react-intro-javascript-essentials-jsx-7d3a423bc40a39d2feb3.js",
+      "component---src-pages-react-intro-javascript-essentials-jsx-7d3a423bc40a39d2feb3.js.map"
     ],
     "path---about": [
       "path---about-586c7e095e534a3909ec.js",
       "path---about-586c7e095e534a3909ec.js.map"
+    ],
+    "path---react-intro-javascript-crash-course": [
+      "path---react-intro-javascript-crash-course-586c7e095e534a3909ec.js",
+      "path---react-intro-javascript-crash-course-586c7e095e534a3909ec.js.map"
     ]
   }
 }
