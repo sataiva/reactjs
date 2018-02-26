@@ -60,4 +60,11 @@ a:hover {
     border-bottom: 1px solid black;
 }
 
+label.container {
+    font-size: 2em;
+    padding: 4px;
+}
+label.container input {
+    margin-left: 6px;
+}
 
