@@ -2,7 +2,15 @@ import React from 'react';
 import MainLayout from '../../components/MainLayout'
 import CtaButton from '../../components/CtaButton'
 import Block from '../../components/Block'
+import styled from 'styled-components';
 
+const QuestionBox = styled.div`
+ border: 1px solid grey;
+ margin: 5px 0px;
+`
+const Container = styled.div`
+padding: 4px;
+`
 const val = [{name: "Array"}, {name: "Object"}, {name: "Function"}]
 class Quiz extends React.Component {
     state = {
@@ -11,9 +19,9 @@ class Quiz extends React.Component {
     }
     render() {
         
-        console.log(this.state.checked)
         return(
-            <div>
+            <QuestionBox>
+                <Container>
                 <div style={{width: "30%"}}>
                 <Block title="" value={this.props.ques} />
                 </div>
@@ -29,8 +37,8 @@ class Quiz extends React.Component {
                     )}
                     {this.state.res == null ? null : this.state.res ? <p> You're right </p> : <p> Please try again </p>  }
                 </div>
-               <hr/>
-            </div>
+                </Container>
+            </QuestionBox>
         );
     }
 }

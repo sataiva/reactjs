@@ -24,6 +24,6 @@ export default (props) =>
                 <li>functions,</li>
                 <li>System or enivronment api like reading file/dir, creating file/dir.</li>
             </ul>
-        <CtaButton to="/react-intro/javascript-crash-course">Let's see them in js</CtaButton>
+        <CtaButton to="/react-intro/javascript-crash-course">Next</CtaButton>
         </div>
 </MainLayout>

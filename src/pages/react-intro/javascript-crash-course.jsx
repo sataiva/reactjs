@@ -1,8 +1,7 @@
 import React from 'react';
 import MainLayout from '../../components/MainLayout'
 import CtaButton from '../../components/CtaButton'
-require('prismjs');
-import Prism from 'react-prism'
+import Block from '../../components/Block'
 
 const variables = `
 var name;
@@ -103,18 +102,6 @@ window.document.write("I can modify the DOM! DOM is like the PSD file of the bro
 // window is optional, you can omit it.
 console.log("this works fine too")
 `
-const Block = ({title, value}) =>
-        <div>
-            <h3>{title}</h3>
-            <div className="gatsby-highlight">
-                <pre>
-                    <Prism className="language-javascript">
-                        {value}
-                    </Prism>
-                </pre>
-            </div>
-        </div>
-
 export default (props) =>
     <MainLayout>
         <Block title="1. Variable declarations - 3 ways" value={variables} />
