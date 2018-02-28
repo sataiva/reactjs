@@ -31,9 +31,10 @@ export default (props) =>
         <div>
             <Block title="Multiple elements in JSX" lang="html" value={initReactJsx} />
             <p> Please try without the curly braces to see what happens. 
-                So far we saw how to create react dom elements and finally render into an actual DOM element.
-                Next, you to need learn 3 things, then you're done learning Reactjs</p>
-                <p>The three things are:</p>
+                So far we saw how to create react dom elements and how to finally render into an actual DOM element.
+                </p>
+                <p> Next, you to need learn 3 things, then you're done learning Reactjs.
+                The three things are:</p>
             <ul>
                 <li>Component</li>
                 <li>State</li>

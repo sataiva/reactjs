@@ -58,7 +58,7 @@ const component = `
 export default (props) =>
     <MainLayout>
         <div>
-            <Block title="Component is like a function and html tag" lang="html" value={initReactJsx} />
+            <Block title="Component is like a function and a html tag" lang="html" value={initReactJsx} />
             <p>A component is like a html tag but defined by you! And it is defined as a function. 
                 Since it is a function, it should also be able to accept arguments, right? 
                 Since it is a html tag, it should also be able to accept attributes, right?

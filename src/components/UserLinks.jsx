@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import {FaGithubAlt, FaFacebook, FaYoutube} from 'react-icons/lib/fa'
+import {FaTwitter, FaGithubAlt, FaFacebook, FaYoutube} from 'react-icons/lib/fa'
 import {MdMessage, MdEmail} from 'react-icons/lib/md'
 import styled from 'styled-components'
 
@@ -33,6 +33,9 @@ class UserLinks extends Component {
   render() {
     return (
       <Container className="user-links">
+        <UserIcon href='https://twitter.com/SataivaT'>
+          <FaTwitter style={iconStyle} />
+        </UserIcon>
         <UserIcon href='https://github.com/sataiva'>
           <FaGithubAlt style={iconStyle} />
         </UserIcon>
