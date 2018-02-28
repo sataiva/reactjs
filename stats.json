@@ -4,9 +4,17 @@
       "path---react-intro-quiz-1-586c7e095e534a3909ec.js",
       "path---react-intro-quiz-1-586c7e095e534a3909ec.js.map"
     ],
+    "component---src-pages-redux-intro-example-jsx": [
+      "component---src-pages-redux-intro-example-jsx-f18357950a5497bf9ca4.js",
+      "component---src-pages-redux-intro-example-jsx-f18357950a5497bf9ca4.js.map"
+    ],
+    "path---redux-intro-library": [
+      "path---redux-intro-library-586c7e095e534a3909ec.js",
+      "path---redux-intro-library-586c7e095e534a3909ec.js.map"
+    ],
     "component---src-pages-react-intro-component-jsx": [
-      "component---src-pages-react-intro-component-jsx-5ff0346e17379044981b.js",
-      "component---src-pages-react-intro-component-jsx-5ff0346e17379044981b.js.map"
+      "component---src-pages-react-intro-component-jsx-bc7257c4487e03b393d3.js",
+      "component---src-pages-react-intro-component-jsx-bc7257c4487e03b393d3.js.map"
     ],
     "path---react-intro-dom": [
       "path---react-intro-dom-586c7e095e534a3909ec.js",
@@ -48,6 +56,14 @@
       "path----6611940bd40871b680a6.js",
       "path----6611940bd40871b680a6.js.map"
     ],
+    "component---src-pages-redux-intro-quiz-1-jsx": [
+      "component---src-pages-redux-intro-quiz-1-jsx-5dc3edd3806b7b7c730c.js",
+      "component---src-pages-redux-intro-quiz-1-jsx-5dc3edd3806b7b7c730c.js.map"
+    ],
+    "component---src-pages-redux-intro-library-jsx": [
+      "component---src-pages-redux-intro-library-jsx-f8a2d8c5ec5d27b6b2b4.js",
+      "component---src-pages-redux-intro-library-jsx-f8a2d8c5ec5d27b6b2b4.js.map"
+    ],
     "component---src-pages-react-intro-state-jsx": [
       "component---src-pages-react-intro-state-jsx-93a2cce9dfbb5f6fd41e.js",
       "component---src-pages-react-intro-state-jsx-93a2cce9dfbb5f6fd41e.js.map"
@@ -88,9 +104,17 @@
       "component---src-pages-react-intro-dom-jsx-a221889791ea460809fb.js",
       "component---src-pages-react-intro-dom-jsx-a221889791ea460809fb.js.map"
     ],
+    "path---redux-intro-example": [
+      "path---redux-intro-example-586c7e095e534a3909ec.js",
+      "path---redux-intro-example-586c7e095e534a3909ec.js.map"
+    ],
+    "path---redux-intro-quiz-1": [
+      "path---redux-intro-quiz-1-586c7e095e534a3909ec.js",
+      "path---redux-intro-quiz-1-586c7e095e534a3909ec.js.map"
+    ],
     "commons": [
-      "commons-4e2998433d079193c4fe.js",
-      "commons-4e2998433d079193c4fe.js.map"
+      "commons-313c6b3d5933e7f168aa.js",
+      "commons-313c6b3d5933e7f168aa.js.map"
     ],
     "path---react-intro-state": [
       "path---react-intro-state-586c7e095e534a3909ec.js",
@@ -101,16 +125,20 @@
       "path---offline-plugin-app-shell-fallback-586c7e095e534a3909ec.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-c2efa6f8ac6478db9031.js",
-      "component---src-pages-index-jsx-c2efa6f8ac6478db9031.js.map"
+      "component---src-pages-index-jsx-73980588b503fb951a67.js",
+      "component---src-pages-index-jsx-73980588b503fb951a67.js.map"
     ],
     "component---src-pages-react-intro-more-on-jsx-jsx": [
-      "component---src-pages-react-intro-more-on-jsx-jsx-1180333c9a1c326c48c3.js",
-      "component---src-pages-react-intro-more-on-jsx-jsx-1180333c9a1c326c48c3.js.map"
+      "component---src-pages-react-intro-more-on-jsx-jsx-02e8fe462c4b02124e60.js",
+      "component---src-pages-react-intro-more-on-jsx-jsx-02e8fe462c4b02124e60.js.map"
+    ],
+    "component---src-pages-redux-intro-react-redux-jsx": [
+      "component---src-pages-redux-intro-react-redux-jsx-b07896b7dc5dadd048e4.js",
+      "component---src-pages-redux-intro-react-redux-jsx-b07896b7dc5dadd048e4.js.map"
     ],
     "app": [
-      "app-6f7552eb03c17df80bfb.js",
-      "app-6f7552eb03c17df80bfb.js.map"
+      "app-4b56f9e0442d2f774a34.js",
+      "app-4b56f9e0442d2f774a34.js.map"
     ],
     "path---react-intro-hello-world": [
       "path---react-intro-hello-world-586c7e095e534a3909ec.js",
@@ -119,6 +147,10 @@
     "path---quick-intro": [
       "path---quick-intro-586c7e095e534a3909ec.js",
       "path---quick-intro-586c7e095e534a3909ec.js.map"
+    ],
+    "path---redux-intro-react-redux": [
+      "path---redux-intro-react-redux-586c7e095e534a3909ec.js",
+      "path---redux-intro-react-redux-586c7e095e534a3909ec.js.map"
     ],
     "component---src-pages-react-intro-javascript-essentials-jsx": [
       "component---src-pages-react-intro-javascript-essentials-jsx-93a086f9faccb8f14d2a.js",
