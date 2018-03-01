@@ -40,10 +40,6 @@
       "component---src-pages-react-intro-quiz-1-jsx-5f78987af26d97530c50.js",
       "component---src-pages-react-intro-quiz-1-jsx-5f78987af26d97530c50.js.map"
     ],
-    "component---src-pages-quick-intro-jsx": [
-      "component---src-pages-quick-intro-jsx-b07b826a3b9e88da4453.js",
-      "component---src-pages-quick-intro-jsx-b07b826a3b9e88da4453.js.map"
-    ],
     "path---react-intro-javascript-essentials": [
       "path---react-intro-javascript-essentials-586c7e095e534a3909ec.js",
       "path---react-intro-javascript-essentials-586c7e095e534a3909ec.js.map"
@@ -57,12 +53,12 @@
       "path----6611940bd40871b680a6.js.map"
     ],
     "component---src-pages-redux-intro-quiz-1-jsx": [
-      "component---src-pages-redux-intro-quiz-1-jsx-5dc3edd3806b7b7c730c.js",
-      "component---src-pages-redux-intro-quiz-1-jsx-5dc3edd3806b7b7c730c.js.map"
+      "component---src-pages-redux-intro-quiz-1-jsx-6396d18955758eca1736.js",
+      "component---src-pages-redux-intro-quiz-1-jsx-6396d18955758eca1736.js.map"
     ],
     "component---src-pages-redux-intro-library-jsx": [
-      "component---src-pages-redux-intro-library-jsx-f8a2d8c5ec5d27b6b2b4.js",
-      "component---src-pages-redux-intro-library-jsx-f8a2d8c5ec5d27b6b2b4.js.map"
+      "component---src-pages-redux-intro-library-jsx-543b62b8ef1c40e218be.js",
+      "component---src-pages-redux-intro-library-jsx-543b62b8ef1c40e218be.js.map"
     ],
     "component---src-pages-react-intro-state-jsx": [
       "component---src-pages-react-intro-state-jsx-93a2cce9dfbb5f6fd41e.js",
@@ -87,10 +83,6 @@
     "path---index": [
       "path---index-586c7e095e534a3909ec.js",
       "path---index-586c7e095e534a3909ec.js.map"
-    ],
-    "component---src-pages-about-jsx": [
-      "component---src-pages-about-jsx-88e439d210cb5a7231c7.js",
-      "component---src-pages-about-jsx-88e439d210cb5a7231c7.js.map"
     ],
     "component---src-pages-react-intro-javascript-crash-course-jsx": [
       "component---src-pages-react-intro-javascript-crash-course-jsx-df8e3369b4089812686a.js",
@@ -125,28 +117,24 @@
       "path---offline-plugin-app-shell-fallback-586c7e095e534a3909ec.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-73980588b503fb951a67.js",
-      "component---src-pages-index-jsx-73980588b503fb951a67.js.map"
+      "component---src-pages-index-jsx-9b828c30fb2894edabe1.js",
+      "component---src-pages-index-jsx-9b828c30fb2894edabe1.js.map"
     ],
     "component---src-pages-react-intro-more-on-jsx-jsx": [
       "component---src-pages-react-intro-more-on-jsx-jsx-02e8fe462c4b02124e60.js",
       "component---src-pages-react-intro-more-on-jsx-jsx-02e8fe462c4b02124e60.js.map"
     ],
     "component---src-pages-redux-intro-react-redux-jsx": [
-      "component---src-pages-redux-intro-react-redux-jsx-b07896b7dc5dadd048e4.js",
-      "component---src-pages-redux-intro-react-redux-jsx-b07896b7dc5dadd048e4.js.map"
+      "component---src-pages-redux-intro-react-redux-jsx-262a6f9cdb4573fbe1e5.js",
+      "component---src-pages-redux-intro-react-redux-jsx-262a6f9cdb4573fbe1e5.js.map"
     ],
     "app": [
-      "app-4b56f9e0442d2f774a34.js",
-      "app-4b56f9e0442d2f774a34.js.map"
+      "app-a198d6c276aaee767ab9.js",
+      "app-a198d6c276aaee767ab9.js.map"
     ],
     "path---react-intro-hello-world": [
       "path---react-intro-hello-world-586c7e095e534a3909ec.js",
       "path---react-intro-hello-world-586c7e095e534a3909ec.js.map"
-    ],
-    "path---quick-intro": [
-      "path---quick-intro-586c7e095e534a3909ec.js",
-      "path---quick-intro-586c7e095e534a3909ec.js.map"
     ],
     "path---redux-intro-react-redux": [
       "path---redux-intro-react-redux-586c7e095e534a3909ec.js",
@@ -155,10 +143,6 @@
     "component---src-pages-react-intro-javascript-essentials-jsx": [
       "component---src-pages-react-intro-javascript-essentials-jsx-93a086f9faccb8f14d2a.js",
       "component---src-pages-react-intro-javascript-essentials-jsx-93a086f9faccb8f14d2a.js.map"
-    ],
-    "path---about": [
-      "path---about-586c7e095e534a3909ec.js",
-      "path---about-586c7e095e534a3909ec.js.map"
     ],
     "path---react-intro-javascript-crash-course": [
       "path---react-intro-javascript-crash-course-586c7e095e534a3909ec.js",
